@@ -1,3 +1,3 @@
 For school.
 
-The pictures and hosting site are all that is required, not the website design.
+The pictures and hosting site are all that is required, and maybe some design principles.
